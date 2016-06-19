@@ -2,6 +2,8 @@
 
 A simple app to simulate the effects of video feedback in software.
 
+Added Audio-Input-Analyser by vinceallenvince to take mic input
+
 [Demo.](https://aljaball.github.io/video-feedback/)
 
 [Explanation and Discussion.](http://www.theseasquirt.com/2016/04/video-feedback-simulator.html)
